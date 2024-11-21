@@ -1,0 +1,9 @@
+{
+  "name": "devworks-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/devworks-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["devworks"],
+  "// targets": "to see all targets run: nx show project devworks-e2e --web",
+  "targets": {}
+}
